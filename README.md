@@ -1,3 +1,5 @@
 # Version Control and Collaboration
 
-[i6 link](http://i6.cims.nyu.edu/~as9645/380/assignment2/)
+# I animated some icons with appropriate Spongebob colors and the others I made them spin around!
+
+[Here's the link to Alex's original repository](https://github.com/asomlo/assignment-4-svg)
